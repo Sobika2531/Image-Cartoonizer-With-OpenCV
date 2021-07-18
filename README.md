@@ -18,4 +18,4 @@ OpenCV is a cross-platform library used for Computer Vision. It includes applica
 We perform bitwise AND on two images to mask them. Yes, so that’s how we mask edged image on our “BEAUTIFY” image. This creates a beautiful cartoon image with edges and lightened colour of the original image.
 
 ##  
-For 
+For docs and info contact sobikasenthilnathan@gmail.com
